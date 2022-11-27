@@ -27,7 +27,7 @@ This API checks if the email is a a disposable email or not.
 
 **domain** : returns domain name of the email if email is valid else returns `null`.
 
-**isValid** : returns true if the email format is correct else returns false.
+**isValid** : returns `true` if the email format is correct else returns `false`.
 
-**isDisposable** : returns true if the email is disposable email else returns false.
+**isDisposable** : returns `true` if the email is disposable email else returns `false`.
 
